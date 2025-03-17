@@ -1,7 +1,8 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=你好，我是小火龙&fontSize=60&fontAlignY=50&textBg=false&reversal=false"  />
 </div>
-我是小张同学，目前是一名北京某985的自动化学院的在读研究生。   
+我是小张同学，目前是一名北京某985的自动化学院的在读研究生。    
+
 主要研究方向为自动化、计算机、人工智能等领域，希望成为一名优秀的CTO。
 
 <p align="center">
