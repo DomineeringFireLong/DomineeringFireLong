@@ -9,7 +9,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,markdown,docker,git,github,MATLAB,MySQL,PyTorch,QT" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,markdown,docker,git" />
+    <img src="https://skillicons.dev/icons?i=github,MATLAB,MySQL,PyTorch,QT" />
   </a>
 </p>
 
