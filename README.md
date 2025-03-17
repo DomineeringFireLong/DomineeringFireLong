@@ -7,11 +7,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,matlab,pytorch,qt,git,docker,mysql,svg,linux" />
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,matlab,pytorch,qt,git,docker,mysql,svg,linux)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=synthwave&show_icons=true)
