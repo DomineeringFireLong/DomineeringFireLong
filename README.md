@@ -4,11 +4,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,markdown,docker,git,github,MATLAB,MySQL,Pycharm,PyTorch,QT,SVG" />
   </a>
 </p>
 
-[![技术栈](https://skillicons.dev/icons?i=cpp,python,markdown,docker,git,github,MATLAB,MySQL,Pycharm,PyTorch,QT,SVG)](https://skillicons.dev)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="[https://skillicons.dev](https://github.com/ryo-ma/github-profile-trophy)">
+    <img src="[https://skillicons.dev/icons?i=cpp,python,markdown,docker,git,github,MATLAB,MySQL,Pycharm,PyTorch,QT,SVG](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)" />
+  </a>
+</p>
