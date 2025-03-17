@@ -11,8 +11,7 @@
 </p>
 
 ## 🚀 技能栈：
-（还在努力丰富中💪）
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,matlab,pytorch,qt,git,docker,mysql,svg,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,matlab,pytorch,qt,git,docker,mysql,svg,linux)](https://skillicons.dev)（还在努力丰富中💪）
 
 ## 📊 GitHub数据
 ### 热门语言卡片
