@@ -8,8 +8,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="[https://skillicons.dev](https://github.com/ryo-ma/github-profile-trophy)">
-    <img src="[https://skillicons.dev/icons?i=cpp,python,markdown,docker,git,github,MATLAB,MySQL,Pycharm,PyTorch,QT,SVG](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)" />
-  </a>
-</p>
+<img align='center'src="https://github-readme-stats.vercel.app/api?username=silence1018&show=reviews&show_icons=true&theme=tokyonight"/> `
