@@ -11,8 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,matlab,pytorch,qt,git,docker,mysql,svg,linux)](https://skillicons.dev)
 
 ## 📊 GitHub数据
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=synthwave&show_icons=true)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+### 热门语言卡片
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomineeringFireLong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 仓库占比：
 [![DomineeringFireLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomineeringFireLong&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+### 贡献统计：
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
