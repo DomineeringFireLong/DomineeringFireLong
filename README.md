@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=你好，我是小火龙&fontAlignY=50&fontSize=60)
+![](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=你好，我是小火龙&fontSize=60)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
