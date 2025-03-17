@@ -9,12 +9,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,MATLAB,PyTorch,QT" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,MATLAB,PyTorch,Qt,git,docker,Markdown,MySQL,SVG" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,Markdown,MySQL,SVG" />
-  </a>
-</p>
+
 
