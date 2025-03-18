@@ -17,11 +17,14 @@
 
 ## 📊 GitHub数据
 ### 热门语言卡片
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomineeringFireLong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomineeringFireLong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
 ### 仓库占比：
-[![DomineeringFireLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomineeringFireLong&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![DomineeringFireLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomineeringFireLong&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
+
 ### 贡献统计：
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DomineeringFireLong&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DomineeringFireLong&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
 ### Github档案奖杯
 [![trophy](https://github-profile-trophy.vercel.app/?username=DomineeringFireLong)](https://github.com/ryo-ma/github-profile-trophy)
 
