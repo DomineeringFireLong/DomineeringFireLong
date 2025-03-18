@@ -16,8 +16,8 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,matlab,pytorch,qt,git,docker,mysql,svg,linux)](https://skillicons.dev)（还在努力丰富中💪）
 
 ## 📊 GitHub数据
-### 热门语言卡片
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomineeringFireLong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+### 热门语言卡片 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomineeringFireLong&layout=compact&theme=compact)
 
 ### 仓库占比：
 [![DomineeringFireLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomineeringFireLong&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
