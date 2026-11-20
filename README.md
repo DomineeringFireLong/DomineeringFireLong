@@ -1,13 +1,13 @@
 <h1 align="center">Zhang ZJ</h1>
 
 <p align="center">
-  <b>Embodied AI · Robotics · Guidance &amp; Control</b><br/>
+  <b>Multi-Agent Swarm Guidance &amp; Control · Embodied AI</b><br/>
   M.S. Candidate (Class of 2026), School of Automation, Beijing Institute of Technology
 </p>
 
 <p align="center">
   <a href="https://github.com/DomineeringFireLong?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
-  <img src="https://img.shields.io/badge/Focus-Embodied%20AI-1f6feb?style=flat-square" alt="Focus: Embodied AI"/>
+  <img src="https://img.shields.io/badge/Focus-Swarm%20GNC%20%7C%20Embodied%20AI-1f6feb?style=flat-square" alt="Focus: Swarm GNC | Embodied AI"/>
   <img src="https://img.shields.io/badge/Location-Beijing%2C%20China-555555?style=flat-square" alt="Location: Beijing, China"/>
 </p>
 
@@ -15,12 +15,13 @@
 
 ## About
 
-我是北京理工大学自动化学院 2026 届硕士研究生，研究方向为**机器人具身智能算法**。工作横跨机器人、人工智能与航空航天三个领域，关注如何将学习方法与经典控制理论结合，使智能体在真实物理世界中稳定、可靠地完成任务。
+我是北京理工大学自动化学院 2026 届硕士研究生，研究方向为**多智能体集群制导控制、具身智能算法**。工作横跨机器人、人工智能与航空航天三个领域，关注如何将学习方法与经典控制理论结合，使智能体在真实物理世界中稳定、可靠地完成任务。
 
-I am an M.S. candidate at the School of Automation, Beijing Institute of Technology, working on **embodied AI algorithms for robotics**. My work spans robotics, artificial intelligence, and aerospace, with an interest in combining learning-based methods with classical control theory.
+I am an M.S. candidate at the School of Automation, Beijing Institute of Technology, working on **multi-agent swarm guidance and control** and **embodied AI algorithms**. My work spans robotics, artificial intelligence, and aerospace, with an interest in combining learning-based methods with classical control theory.
 
 ## Research Interests
 
+- **Multi-Agent Swarm GNC** — 多智能体集群协同制导与控制
 - **Embodied AI** — 面向机器人的感知、决策与控制算法
 - **Robot Learning** — 深度学习与大模型在机器人中的应用
 - **Control Theory** — 自抗扰控制、滑模控制、模型预测控制、自适应控制
