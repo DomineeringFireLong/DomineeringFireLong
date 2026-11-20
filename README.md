@@ -1,27 +1,60 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=你好，我是小火龙&fontSize=60&fontAlignY=50&textBg=false&reversal=false"  />
-</div>
+<h1 align="center">Zhang ZJ</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=2000&color=7E2DC8&width=435&lines=%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E7%83%AD%E7%88%B1%E7%A7%91%E6%8A%80%E7%9A%84%E5%BF%AB%E4%B9%90%E9%9D%92%E5%B9%B4;%E6%AC%A2%E8%BF%8E%E4%B8%80%E8%B5%B7%E6%8E%A2%E7%B4%A2%E6%88%91%E7%9A%84%E4%BB%93%E5%BA%93%E5%91%80%EF%BD%9E" />
-  </a>
+  <b>Embodied AI · Robotics · Guidance &amp; Control</b><br/>
+  M.S. Candidate (Class of 2026), School of Automation, Beijing Institute of Technology
 </p>
 
+<p align="center">
+  <a href="https://github.com/DomineeringFireLong?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
+  <img src="https://img.shields.io/badge/Focus-Embodied%20AI-1f6feb?style=flat-square" alt="Focus: Embodied AI"/>
+  <img src="https://img.shields.io/badge/Location-Beijing%2C%20China-555555?style=flat-square" alt="Location: Beijing, China"/>
+</p>
 
-## 🚀 技能栈：
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,matlab,pytorch,qt,git,docker,mysql,svg,linux)](https://skillicons.dev)（还在努力丰富中💪）
+---
 
-## 📊 GitHub数据
-### 热门语言卡片 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomineeringFireLong&layout=compact&theme=compact)
+## About
 
-### 仓库占比：
-[![DomineeringFireLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomineeringFireLong&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
+我是北京理工大学自动化学院 2026 届硕士研究生，研究方向为**机器人具身智能算法**。工作横跨机器人、人工智能与航空航天三个领域，关注如何将学习方法与经典控制理论结合，使智能体在真实物理世界中稳定、可靠地完成任务。
 
-### 贡献统计：
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DomineeringFireLong&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+I am an M.S. candidate at the School of Automation, Beijing Institute of Technology, working on **embodied AI algorithms for robotics**. My work spans robotics, artificial intelligence, and aerospace, with an interest in combining learning-based methods with classical control theory.
 
-### Github档案奖杯
-[![trophy](https://github-profile-trophy.vercel.app/?username=DomineeringFireLong)](https://github.com/ryo-ma/github-profile-trophy)
+## Research Interests
 
+- **Embodied AI** — 面向机器人的感知、决策与控制算法
+- **Robot Learning** — 深度学习与大模型在机器人中的应用
+- **Control Theory** — 自抗扰控制、滑模控制、模型预测控制、自适应控制
+- **Aerospace GNC** — 飞行器动力学建模、制导与控制仿真
+
+## Selected Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [Control_Engineer](https://github.com/DomineeringFireLong/Control_Engineer) | 现代控制算法实现与仿真：ADRC、高阶滑模、MPC、反步法、自适应控制、参数辨识等 | MATLAB / Simulink |
+| [aircraft](https://github.com/DomineeringFireLong/aircraft) | 飞行器六自由度动力学、气动、制导与控制一体化仿真 | C++ |
+| [NLPlearn](https://github.com/DomineeringFireLong/NLPlearn) | 从零实现 Seq2Seq 与 GPT 系列语言模型 | Python / PyTorch |
+| [CV_learn](https://github.com/DomineeringFireLong/CV_learn) | 经典视觉模型复现：CNN、GAN、Vision Transformer | Python / PyTorch |
+| [AIGC](https://github.com/DomineeringFireLong/AIGC) | 生成式模型与大模型微调实践 | Python |
+
+## Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Java](https://img.shields.io/badge/Java-437291?style=flat-square)
+
+**Frameworks & Tools**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## Contact
+
+欢迎就具身智能、机器人与控制相关的研究和工程问题交流，可通过 [GitHub Issues](https://github.com/DomineeringFireLong/DomineeringFireLong/issues) 联系我。
