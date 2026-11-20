@@ -30,11 +30,10 @@ I am an M.S. candidate at the School of Automation, Beijing Institute of Technol
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| [Control_Engineer](https://github.com/DomineeringFireLong/Control_Engineer) | 现代控制算法实现与仿真：ADRC、高阶滑模、MPC、反步法、自适应控制、参数辨识等 | MATLAB / Simulink |
-| [aircraft](https://github.com/DomineeringFireLong/aircraft) | 飞行器六自由度动力学、气动、制导与控制一体化仿真 | C++ |
-| [NLPlearn](https://github.com/DomineeringFireLong/NLPlearn) | 从零实现 Seq2Seq 与 GPT 系列语言模型 | Python / PyTorch |
-| [CV_learn](https://github.com/DomineeringFireLong/CV_learn) | 经典视觉模型复现：CNN、GAN、Vision Transformer | Python / PyTorch |
-| [AIGC](https://github.com/DomineeringFireLong/AIGC) | 生成式模型与大模型微调实践 | Python |
+| [Control_Engineer](https://github.com/DomineeringFireLong/Control_Engineer) | 控制、估计与优化算法合集：ADRC、滑模、MPC、反步法、自适应控制、高斯伪谱法最优控制、KF / EKF 参数辨识 | MATLAB / Simulink |
+| [aircraft](https://github.com/DomineeringFireLong/aircraft) | 飞行器六自由度动力学、气动、制导与控制一体化仿真 | C++ / Eigen |
+| [NLPlearn](https://github.com/DomineeringFireLong/NLPlearn) | 从零实现 RNN、LSTM、Seq2Seq、Transformer 与小型 GPT 的预训练和微调 | Python / PyTorch |
+| [CV_learn](https://github.com/DomineeringFireLong/CV_learn) | 手写卷积与池化层的 CNN 实现及视觉模型笔记 | Python / PyTorch |
 
 ## Tech Stack
 
